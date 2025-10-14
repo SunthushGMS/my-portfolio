@@ -1,6 +1,6 @@
 import React from "react";
 import "../assets/css/IntroSection.css";
-import proPic from "../assets/images/proPic1.png"; 
+import proPic from "../assets/images/propic2.jpg"; 
 import html from "../assets/images/html.png"; 
 import css from "../assets/images/css-3.png"; 
 import js from "../assets/images/js.png"; 
@@ -43,7 +43,7 @@ const IntroSection = () => {
             ))}
           </h3>
           <p className="lead text-light mb-3 ">
-            I’m Koliya Jayaratne, a passionate Software Engineer and Web Developer.  
+            I’m SANTHUSH GMS, a passionate Software Engineer and Web Developer.  
             I specialize in building modern, responsive web applications and delivering clean, efficient code.
           </p>
 
