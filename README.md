@@ -80,9 +80,20 @@ npm start
 # 6️⃣ Start the frontend client
 cd ../client
 npm start
-#screenshots
-<img width="1897" height="911" alt="Screenshot 2025-09-24 235849" src="https://github.com/user-attachments/assets/ef825f3a-9eff-4f5a-925c-3433723e95b3" />
-<img width="1896" height="911" alt="Screenshot 2025-09-24 235601" src="https://github.com/user-attachments/assets/cb0d7eb4-45ea-467b-bb6c-cb20703a873e" />
-<img width="1900" height="919" alt="Screenshot 2025-09-24 225859" src="https://github.com/user-attachments/assets/c195158a-2ce8-45ed-99e8-ffc5f38051a5" />
-<img width="1893" height="913" alt="Screenshot 2025-09-25 000007" src="https://github.com/user-attachments/assets/1ea0c54b-aaa0-43fb-b0b4-8b6842183b58" />
-<img width="1898" height="914" alt="Screenshot 2025-09-23 104821" src="https://github.com/user-attachments/assets/7f37d2ea-14e4-4977-b27f-72be18d6c059" />
+## 📸 Screenshots
+
+### 🏠 Home Page
+<img width="100%" alt="Home Page" src="https://github.com/user-attachments/assets/ef825f3a-9eff-4f5a-925c-3433723e95b3" />
+
+### 💼 Projects Section
+<img width="100%" alt="Projects Page" src="https://github.com/user-attachments/assets/cb0d7eb4-45ea-467b-bb6c-cb20703a873e" />
+
+### 📄 Project Details
+<img width="100%" alt="Project Details" src="https://github.com/user-attachments/assets/c195158a-2ce8-45ed-99e8-ffc5f38051a5" />
+
+### 👤 Contact Page
+<img width="100%" alt="Contact Page" src="https://github.com/user-attachments/assets/1ea0c54b-aaa0-43fb-b0b4-8b6842183b58" />
+
+### 📱 Responsive Layout
+<img width="100%" alt="Responsive Layout" src="https://github.com/user-attachments/assets/7f37d2ea-14e4-4977-b27f-72be18d6c059" />
+
